@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ratio-converter/static/css/main.373e8e04.css",
-    "main.js": "/ratio-converter/static/js/main.c6541b86.js",
+    "main.css": "/ratio-converter/static/css/main.779ebef1.css",
+    "main.js": "/ratio-converter/static/js/main.fe5ca2ff.js",
     "index.html": "/ratio-converter/index.html",
-    "main.373e8e04.css.map": "/ratio-converter/static/css/main.373e8e04.css.map",
-    "main.c6541b86.js.map": "/ratio-converter/static/js/main.c6541b86.js.map"
+    "main.779ebef1.css.map": "/ratio-converter/static/css/main.779ebef1.css.map",
+    "main.fe5ca2ff.js.map": "/ratio-converter/static/js/main.fe5ca2ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.373e8e04.css",
-    "static/js/main.c6541b86.js"
+    "static/css/main.779ebef1.css",
+    "static/js/main.fe5ca2ff.js"
   ]
 }
